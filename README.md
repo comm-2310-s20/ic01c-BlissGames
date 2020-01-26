@@ -12,10 +12,10 @@
 1. My favorite videogame is ____________________
 
 1. My favorite pokemon or videogame character is _______________________
-=======
+
 1. My favorite videogame genre is *FPS*
 
 1. My favorite videogame is *Minecraft*
 
 1. My favorite pokemon or videogame character is *Aurelion Sol from League of Legends*
->>>>>>> Stashed changes
+
