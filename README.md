@@ -12,3 +12,8 @@
 
 1. My favorite YouTube channel is **Hell's Kitchen.**
 
+1. My favorite videogame genre is *FPS*
+
+1. My favorite videogame is *Minecraft*
+
+1. My favorite pokemon or videogame character is *Aurelion Sol from League of Legends*
